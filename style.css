@@ -20,6 +20,7 @@ body {
 }
 
 h1 {
+  color: #3f3d56;
   font-family: "Dosis", sans-serif;
   font-size: 32px;
   font-weight: 400;
@@ -29,4 +30,20 @@ h1 {
 h1 span {
   font-weight: 700;
   color: #ee24ff;
+}
+
+.first-second-paragraph {
+  width: 540px;
+  margin-bottom: 32px;
+}
+
+p {
+  color: #828282;
+  font-size: 15px;
+  line-height: 22px;
+}
+
+strong {
+  color: #3f3d56;
+  font-weight: 700;
 }
