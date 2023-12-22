@@ -1,0 +1,23 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Dosis", sans-serif;
+  font-family: "Open Sans", sans-serif;
+}
+
+.main {
+  width: 626px;
+  margin: 64px auto;
+  text-align: center;
+}
+
+.main img {
+    width: 350px;
+    margin-bottom: 32px;
+}
+
+.main
