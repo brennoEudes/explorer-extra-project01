@@ -16,7 +16,7 @@ body {
 
 .main img {
   width: 350px;
-  margin-bottom: 32px;
+  margin: 0px 72px 32px;
 }
 
 h1 {
@@ -32,9 +32,9 @@ h1 span {
   color: #ee24ff;
 }
 
-.first-second-paragraph {
+.main-text {
   width: 540px;
-  margin-bottom: 32px;
+  margin: 0px auto 32px;
 }
 
 p {
@@ -47,9 +47,32 @@ strong {
   color: #3f3d56;
   font-weight: 700;
 }
- .last-paragraph {
-    width: 626px;
+
+.flutuar-word {
+  color: #828282;
+}
+
+ .links {
     text-align: center;
-    margin: 0px ;
-    
+    margin-bottom: 42px;
+ }
+
+ .line {
+    width: 391px;
+    border: 1px #eceff2 solid;
+    margin: 0px auto 16px;
+  }
+
+ .links a {
+    color: #3F3D56;
+    font-size: 15px;
+    font-weight: 700;
+ }
+
+ .links a + a {
+    margin-left: 42px;
+ }
+
+ footer img {
+    width: 100%;
  }
